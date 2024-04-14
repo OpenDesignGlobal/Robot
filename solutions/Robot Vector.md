@@ -1,6 +1,6 @@
 # The development documentation of the Robot Vector
 
-**Contributor:** [Zhirong Xue](https://twitter.com/XueZhirong)
+**Contributor:** [Zhirong Xue](../Contributors.html#zhirong-xue)
 
 ![](../attachments/Pasted%20image%2020240414143944.png)
 
